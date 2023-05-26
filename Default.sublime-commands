@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Git: Open Modified",
+        "caption": "GitOpenModified",
         "command": "git_open_modified"
     }
 ]

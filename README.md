@@ -4,9 +4,9 @@ A Sublime Text to open dirty buffers.
 
 ## Commands
 
-Command                             | Description
-:---------------------------------- | :----------
-**Git:&nbsp;Open&nbsp;Modified**    | Open dirty buffers.
+Command                 | Description
+:-----------------------| :----------
+**GitOpenModified**     | Open dirty buffers.
 
 ## License
 
