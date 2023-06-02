@@ -1,4 +1,4 @@
-# GitOpenModified
+# Git Open Modified
 
 A Sublime Text to open dirty buffers.
 
@@ -6,7 +6,7 @@ A Sublime Text to open dirty buffers.
 
 Command                 | Description
 :-----------------------| :----------
-**GitOpenModified**     | Open dirty buffers.
+**Git Open Modified**   | Open dirty buffers.
 
 ## License
 
