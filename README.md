@@ -1,12 +1,12 @@
 # Git Open Modified
 
-A Sublime Text to open dirty buffers.
+A Sublime Text plugin to open all Git modified files.
 
 ## Commands
 
 Command                 | Description
 :-----------------------| :----------
-**Git Open Modified**   | Open dirty buffers.
+**Git Open Modified**   | Open all git modified files.
 
 ## License
 
